@@ -62,6 +62,8 @@ Excel: Visaualisation and writing findings.
 
 <img width="1605" height="402" alt="image" src="https://github.com/user-attachments/assets/17cb936f-5e58-4fab-a7b6-fd6647e25f5e" />
 
+--------
+
 
 Balanced inventory instances never crossed 16 in any given month, indicating room for improvement in aligning inventory levels with actual demand.
 Understock and overstock events remained persistently high throughout the observed period (Jan 2015 – Dec 2017), reflecting ongoing challenges in demand forecasting and inventory planning.
