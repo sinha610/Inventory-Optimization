@@ -46,6 +46,7 @@ SQL: Data extraction and transformation
 Excel: Visaualisation and writing findings.
 
 
+--------
 
 <img width="1291" height="345" alt="image" src="https://github.com/user-attachments/assets/811fede8-2b82-4abc-98be-a0fd7eded003" />
 
