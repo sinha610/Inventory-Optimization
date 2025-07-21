@@ -49,12 +49,15 @@ Excel: Visaualisation and writing findings.
 
 <img width="1291" height="345" alt="image" src="https://github.com/user-attachments/assets/811fede8-2b82-4abc-98be-a0fd7eded003" />
 
+--------
 
 <img width="1366" height="656" alt="image" src="https://github.com/user-attachments/assets/60dc8288-3fbb-4988-885d-9ef0db11afcc" />
 
+--------
 
 <img width="1532" height="602" alt="image" src="https://github.com/user-attachments/assets/ed22aff4-f8a7-435d-afc1-2b4c5b93caba" />
 
+--------
 
 <img width="1605" height="402" alt="image" src="https://github.com/user-attachments/assets/17cb936f-5e58-4fab-a7b6-fd6647e25f5e" />
 
@@ -62,6 +65,5 @@ Excel: Visaualisation and writing findings.
 Balanced inventory instances never crossed 16 in any given month, indicating room for improvement in aligning inventory levels with actual demand.
 Understock and overstock events remained persistently high throughout the observed period (Jan 2015 – Dec 2017), reflecting ongoing challenges in demand forecasting and inventory planning.
 Overstocking showed intermittent spikes — most prominently in August 2015 (32 cases) and March 2016 — but generally declined by late 2017, suggesting some gradual improvement in stock management.
-<img width="168" height="79" alt="image" src="https://github.com/user-attachments/assets/8bdb56eb-59b7-4229-99a1-247864152bd9" />
 
 
